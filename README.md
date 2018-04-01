@@ -27,5 +27,7 @@ Let assume we have two sequences, seq1 and seq2 of respective lengths n and m.
 
 ### Linear gap penalty
 
+#### Initialization
+
 
 ### Affine gap penalty
